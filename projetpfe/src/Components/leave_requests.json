@@ -1,0 +1,44 @@
+{
+    "leaveRequests": [
+      {
+        "id": 1,
+        "employeeId": 1,
+        "leaveReason": "sick",
+        "startDate": "2024-04-11",
+        "endDate": "2024-04-13",
+        "detail": "Feeling unwell, need rest at home.",
+        "status" : "Accepted"
+      },
+      {
+        "id": 2,
+        "employeeId": 2,
+        "leaveReason": "personal",
+        "startDate": "2024-04-15",
+        "endDate": "2024-04-16",
+        "detail": "Attending family event out of town.",
+        "status" : "Waiting"
+
+      },
+      {
+        "id": 3,
+        "employeeId": 3,
+        "leaveReason": "paternety",
+        "startDate": "2024-04-15",
+        "endDate": "2024-04-24",
+        "detail": "Attending family event out of town.",
+        "status" : "Refused"
+
+      },
+      {
+        "id": 4,
+        "employeeId": 3,
+        "leaveReason": "",
+        "startDate": "",
+        "endDate": "",
+        "detail": "",
+        "status" : "waiting for approve"
+
+      }
+    ]
+  }
+  

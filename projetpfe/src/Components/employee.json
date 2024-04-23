@@ -1,0 +1,63 @@
+{
+    "Employees":[
+        {
+            "employeeId" : 1,
+            "FirstName" : "omar",
+            "LastName" : "oujdi",
+            "Email" : "omar@gmail.com",
+            "Departement" : "IT",
+            "DateDambauche" : "2024-01-05",
+            "mission" : "devlopper",
+            "country" : "morocco",
+            "state" : "state1",
+            "city" : "tanger",
+            "birthDate" : "2024-01-01",
+            "address" : "branes"
+
+        },
+        {
+            "employeeId" : 2,
+            "FirstName" : "qamar",
+            "LastName" : "refia",
+            "Email" : "qamar@gmail.com",
+            "Departement" : "transport logistique",
+            "DateDambauche" : "2024-01-05",
+            "mission" : "testing",
+            "country" : "morocco",
+            "state" : "state1",
+            "city" : "tanger",
+            "birthDate" : "2024-01-01",
+            "address" : "jeerarrii"
+
+        },
+        {
+            "employeeId" : 3,
+            "FirstName" : "saad",
+            "LastName" : "tetuani",
+            "Email" : "saad@gmail.com",
+            "Departement" : "resaux",
+            "DateDambauche" : "2024-01-05",
+            "mission" : "web disigner",
+            "country" : "morocco",
+            "state" : "state1",
+            "city" : "tanger",
+            "birthDate" : "2024-01-01",
+            "address" : "branes"
+
+        },
+        {
+            "employeeId" : 4,
+            "FirstName" : "imane",
+            "LastName" : "nadoria",
+            "Email" : "imane@gmail.com",
+            "Departement" : "comptable",
+            "DateDambauche" : "2024-01-05",
+            "mission" : "controler",
+            "country" : "morocco",
+            "state" : "state1",
+            "city" : "tanger",
+            "birthDate" : "2024-01-01",
+            "address" : "bni makada"
+        }
+    ]
+}

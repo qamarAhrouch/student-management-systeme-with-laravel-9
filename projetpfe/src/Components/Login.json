@@ -1,0 +1,36 @@
+{
+    "UsersLogin":[
+        {
+            "id" : 1,
+            "FirstName" : "omar",
+            "LastName" : "oujdi",
+            "Email" : "omar@gmail.com",
+            "Password" : "123456",
+            "Departement" : "IT",
+            "DateDambauche" : "2024-01-05",
+            "mission" : "devlopper",
+            "country" : "morocco",
+            "state" : "state1",
+            "city" : "tanger",
+            "birthDate" : "2024-01-01",
+            "address" : "branes"
+
+        },
+        {
+            "id" : 2,
+            "FirstName" : "qamar",
+            "LastName" : "ah",
+            "Email" : "qamar@gmail.com",
+            "Password" : "12345",
+            "Departement" : "IT",
+            "DateDambauche" : "2024-01-05",
+            "mission" : "transport logistique",
+            "country" : "morocco",
+            "state" : "state2",
+            "city" : "tanger",
+            "birthDate" : "2024-01-01",
+            "address" : "jiraarree"
+
+        }
+    ]
+    }

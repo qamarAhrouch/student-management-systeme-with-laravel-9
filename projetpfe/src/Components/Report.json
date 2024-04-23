@@ -1,0 +1,25 @@
+
+  {
+    "reports":  [
+    {
+      "id": 1,
+      "employeeId": 1,
+      "absences": "sick",
+      "type": "Feeling unwell, need rest at home.1",
+      "firstDate": "2024-04-13",
+      "endDate": "2024-04-17",
+      "status":"Accepted"
+    },
+    {
+      "id": 2,
+      "employeeId": 2,
+      "absences": "personal",
+      "type": "Feeling unwell, need rest at home.1",
+      "firstDate": "2024-04-13",
+      "endDate": "2024-04-17",
+      "status":"Refused"
+    }
+    
+  ]
+  }
+  
