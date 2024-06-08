@@ -4,8 +4,3 @@
 - The director can manage the student, teachers, courses, batches, enrollement and the payments. 
 - For Authentification i used ( Laravel/Ui )
 - i add some boostrap style with javascript alert 
-~ Finnaly i hoppe that the project i a really project hahaha ,
- and i want to tell u thank u for everything u was really the real teacher,
- u helped me mooore that uthink i swear, 
-u provided me a lot of information that i can confort them in my work-life
-any way, love u and i wish u all the best in ur life .
